@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+- 🔭 I’m currently working on WWDC21 project
+- 🌱 I’m currently doing and learning iOS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mamadaev" alt="Ibragim's github stats">
+</p>
+![Profile views](https://gpvc.arturio.dev/mamadaev)
 
 <!--
 **mamadaev/mamadaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
