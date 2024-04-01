@@ -1,7 +1,7 @@
 ### Hello there 👋
 - 🌱 I’m currently doing and learning iOS
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mamadaev" alt="Ibragim's github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=nsibragim" alt="Ibragim's github stats">
 </p>
 
 <!--
